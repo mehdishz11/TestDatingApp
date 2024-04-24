@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="FullScreenDialogPreview">
+        <State />
+      </entry>
+      <entry key="ImageDetailsPreview">
+        <State />
+      </entry>
+      <entry key="ImageRowPreview">
+        <State />
+      </entry>
+      <entry key="PeopleListScreenPreview">
+        <State />
+      </entry>
+      <entry key="ProgressRowPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="R5CWA13F5LY" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-24T13:20:38.988375Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>

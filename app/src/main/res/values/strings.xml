@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Dating App</string>
+    <string name="spotlight">Spotlight</string>
+    <string name="error_try_again">Error Try again!</string>
+</resources>
